@@ -1,1 +1,5 @@
 @import url('~coco-lib/es/button/style/index.css');
+
+div {
+    background-color: green;
+}

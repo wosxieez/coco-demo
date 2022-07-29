@@ -2,6 +2,7 @@
     "name": "coco-demo",
     "version": "1.0.0",
     "description": "",
+    "type": "moodule",
     "scripts": {
         "start": "npm run build",
         "build": "webpack --mode=production"
@@ -10,7 +11,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "coco-lib": "^1.1.9",
+        "coco-lib": "^1.2.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
     },
