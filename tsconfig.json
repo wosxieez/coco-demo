@@ -1,5 +1,7 @@
 {
     "compilerOptions": {
         "noImplicitAny": false
-    }
+    },
+    "include": ["src/App.ts"],
+    "exclude": ["node_modules"]
 }
